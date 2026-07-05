@@ -1,0 +1,5 @@
+tenure_bucket,total_customers,churned,churn_rate_pct
+0-1 year,2186,1037,47.4
+1-2 years,1024,294,28.7
+2-4 years,1594,325,20.4
+4+ years,2239,213,9.5

@@ -1,0 +1,5 @@
+RiskTier,Customers,AvgChurnProbability,AnnualRevenueAtRisk
+Critical,672,0.79,649636.2
+High,1244,0.54,982906.2
+Medium,933,0.3,694970.4
+Low,2325,0.07,1476316.2

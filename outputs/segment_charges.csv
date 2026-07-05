@@ -1,0 +1,5 @@
+charge_bucket,total_customers,churned,churn_rate_pct
+High ($70-90),1847,701,38.0
+Very High ($90+),1744,573,32.9
+Medium ($35-70),1721,407,23.6
+Low ($0-35),1731,188,10.9
